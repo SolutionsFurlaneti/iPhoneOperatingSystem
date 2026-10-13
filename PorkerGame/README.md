@@ -1,6 +1,6 @@
 # PokerGame · IOS
 
-Versão 1.0.8.
+Versão 1.0.10.
 
 [Instalar PokerGame no iPhone](https://www.furlaneti.com.br/pokergame/)
 
