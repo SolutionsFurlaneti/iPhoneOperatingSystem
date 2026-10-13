@@ -1,0 +1,10 @@
+{
+  "platform": "ios",
+  "versionCode": 1001,
+  "versionName": "1.0.1",
+  "commit": "d2c766a4b7684572cfe5a63e563e2c4df3e20994",
+  "sha256": "85c845ed20ccee742401d54afa5acc8dfa9a7716b2dcc4af59733e8e97860e5d",
+  "file": "MachineSlot-iOS.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/SolutionsFurlaneti/iPhoneOperatingSystem/main/MachineSlot/MachineSlot-iOS.zip",
+  "installUrl": "https://www.furlaneti.com.br/machineslot/"
+}
