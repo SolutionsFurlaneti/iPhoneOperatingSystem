@@ -1,0 +1,10 @@
+{
+  "platform": "ios",
+  "versionCode": 1001,
+  "versionName": "1.0.1",
+  "commit": "3a5311197b60ac943a2679556ed4d60c561bf82c",
+  "sha256": "e776cb807c1dee6835ea9ec688386f893a426d70fd26a2ba8d575f93828cff9d",
+  "file": "FutBetRealtime-iOS.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/SolutionsFurlaneti/iPhoneOperatingSystem/main/FutBetRealtime/FutBetRealtime-iOS.zip",
+  "installUrl": "https://www.furlaneti.com.br/futbet/"
+}
