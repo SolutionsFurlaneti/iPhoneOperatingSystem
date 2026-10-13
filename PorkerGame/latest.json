@@ -1,0 +1,10 @@
+{
+  "platform": "ios",
+  "versionCode": 1008,
+  "versionName": "1.0.8",
+  "commit": "449cc68c10f9c885004090cb0ee24c5a897fae73",
+  "sha256": "9949d0b824c0efb4d9340added5fcf3c2481159448f8a5b4a9f563763780ac68",
+  "file": "PokerGame-iOS.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/SolutionsFurlaneti/iPhoneOperatingSystem/main/PorkerGame/PokerGame-iOS.zip",
+  "installUrl": "https://www.furlaneti.com.br/pokergame/"
+}
