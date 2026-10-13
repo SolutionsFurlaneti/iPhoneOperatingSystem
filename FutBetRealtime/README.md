@@ -1,6 +1,6 @@
 # FutBetRealtime · IOS
 
-Versão 1.0.1.
+Versão 1.0.2.
 
 [Instalar FutBetRealtime no iPhone](https://www.furlaneti.com.br/futbet/)
 
