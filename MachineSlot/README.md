@@ -1,6 +1,6 @@
 # MachineSlot · IOS
 
-Versão 1.0.1.
+Versão 1.0.2.
 
 [Instalar MachineSlot no iPhone](https://www.furlaneti.com.br/machineslot/)
 
