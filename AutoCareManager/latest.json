@@ -1,0 +1,10 @@
+{
+  "platform": "ios",
+  "versionCode": 1048,
+  "versionName": "1.0.48",
+  "commit": "f084fcddbe126ab1035565f94c696102f1c37fac",
+  "sha256": "cdae44b141691b2f11845a6891991ecd9c5de8653d143736bb0a08c35a0082c6",
+  "file": "AutoCareManager-iOS.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/SolutionsFurlaneti/iPhoneOperatingSystem/main/AutoCareManager/AutoCareManager-iOS.zip",
+  "installUrl": "https://www.furlaneti.com.br/autocare/"
+}
