@@ -1,6 +1,6 @@
 # AutoCareManager · IOS
 
-Versão 1.0.49.
+Versão 1.0.50.
 
 [Instalar o AutoCare Manager no iPhone](https://www.furlaneti.com.br/autocare/)
 
