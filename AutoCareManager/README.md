@@ -1,10 +1,10 @@
-# AutoCareManager · IOS
+# CareAuto · IOS
 
-Versão 1.0.50.
+Versão 1.0.51.
 
-[Instalar o AutoCare Manager no iPhone](https://www.furlaneti.com.br/autocare/)
+[Instalar o CareAuto no iPhone](https://careauto.online)
 
-1. Abra o AutoCare Manager no Safari.
+1. Abra o CareAuto no Safari.
 2. Toque em Compartilhar e escolha Adicionar à Tela de Início.
 3. Confirme o nome e toque em Adicionar.
 
