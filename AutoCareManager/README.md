@@ -1,6 +1,6 @@
 # CareAuto · IOS
 
-Versão 1.0.55.
+Versão 1.0.56.
 
 [Instalar o CareAuto no iPhone](https://careauto.online)
 
