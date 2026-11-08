@@ -1,9 +1,9 @@
 {
   "platform": "ios",
-  "versionCode": 43,
-  "versionName": "1.0.43",
-  "commit": "546629d0cb2fc858f408d3a792eabef8b42ccffd",
-  "sha256": "f8c8819f5b726ca4ce68abd456010128ee2670ed68e6dabebad4849d91b6da72",
+  "versionCode": 44,
+  "versionName": "1.0.44",
+  "commit": "c62f4ae580b8129909f573b8f1992981ad2f46eb",
+  "sha256": "2c6ae183d65e435c0ce026df8df9ec8669af17ab7b5bbad040c02cfb62709d6e",
   "file": "NextTimeSlot-iOS.zip",
   "downloadUrl": "https://raw.githubusercontent.com/SolutionsFurlaneti/iPhoneOperatingSystem/main/NextTimeSlot/NextTimeSlot-iOS.zip",
   "installUrl": "https://nexttimeslot.online"
