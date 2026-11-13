@@ -1,6 +1,6 @@
 # NextTimeSlot · IOS
 
-Versão 1.0.70.
+Versão 1.0.71.
 
 [Instalar NextTimeSlot no iPhone ou iPad](https://nexttimeslot.online)
 
