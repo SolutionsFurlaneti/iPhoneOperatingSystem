@@ -1,9 +1,9 @@
 {
   "platform": "ios",
-  "versionCode": 1065,
-  "versionName": "1.0.65",
-  "commit": "776636ad3139b2d5153178278adc88416ebcdcbf",
-  "sha256": "87c5586f10e6aacca45c851071a000aa472dfe60c81b2799c5d26cd8e20567cd",
+  "versionCode": 1066,
+  "versionName": "1.0.66",
+  "commit": "0f429a8bcf3be5cd1b6df6f4b9f2e0cb80bd4ee4",
+  "sha256": "a3e3e78826ff4aba72b7b6fa06881dedadf05a28ebc424931f44bcad2ef9db18",
   "file": "AutoCareManager-iOS.zip",
   "downloadUrl": "https://raw.githubusercontent.com/SolutionsFurlaneti/iPhoneOperatingSystem/main/AutoCareManager/AutoCareManager-iOS.zip",
   "installUrl": "https://careauto.online"
